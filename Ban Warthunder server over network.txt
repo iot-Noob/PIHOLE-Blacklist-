@@ -1,0 +1,9 @@
+api-cache.blizzcon.com
+api-cache.blizzcon.com 
+gcore.cdn.gaijin.net
+warthunder-gcore.cdn.gaijin.net 
+auth.gaijinent.com
+auth.gaijinent.com 
+warthunder.com
+warthunder.com
+warthunder.com 
