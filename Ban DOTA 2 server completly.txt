@@ -1,0 +1,4 @@
+www.dota2.com
+api.steampowered.com
+(\.|^)steamcommunity\.com$
+steamcommunity.com
