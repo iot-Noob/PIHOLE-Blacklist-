@@ -7,3 +7,4 @@ auth.gaijinent.com
 warthunder.com
 warthunder.com
 warthunder.com 
+userstat-sv-lx-109.gaijin.net
