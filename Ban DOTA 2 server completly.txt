@@ -1,6 +1,6 @@
-www.dota2.com
-api.steampowered.com
-(\.|^)steamcommunity\.com$
-steamcommunity.com
-edgesuite.net
-akamaihd.net 
+0.0.0.0 www.dota2.com
+0.0.0.0 api.steampowered.com
+0.0.0.0 (\.|^)steamcommunity\.com$
+0.0.0.0 steamcommunity.com
+0.0.0.0 edgesuite.net
+0.0.0.0 akamaihd.net 
