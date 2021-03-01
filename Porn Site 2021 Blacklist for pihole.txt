@@ -1,105 +1,115 @@
-porngrader.com
-porngrader.com/best-premium-porn-sites
-www.brazzersnetwork.com/
-porngrader.com/brazzers-network
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 porngrader.com
+0.0.0.0 porngrader.com/best-premium-porn-sites
+0.0.0.0 www.brazzersnetwork.com/
+0.0.0.0 porngrader.com/brazzers-network
+0.0.0.0 www.mofosnetwork.com
+0.0.0.0 porngrader.com/mofos
                                     
                                     
                                         
                                     
                                 
-www.mofosnetwork.com
-porngrader.com/mofos
+0.0.0.0 playboyplus.com
+0.0.0.0 porngrader.com/playboy-plus
                                     
                                     
                                         
                                     
                                 
-playboyplus.com
-porngrader.com/playboy-plus
+0.0.0.0 rk.com
+0.0.0.0 porngrader.com/reality-kings
                                     
                                     
                                         
                                     
                                 
-rk.com
-porngrader.com/reality-kings
+0.0.0.0 teamskeet.com
+0.0.0.0 porngrader.com/teamskeet
                                     
                                     
                                         
                                     
                                 
-teamskeet.com
-porngrader.com/teamskeet
+0.0.0.0 ddfnetwork.com
+0.0.0.0 porngrader.com/ddf-network
                                     
                                     
                                         
                                     
                                 
-ddfnetwork.com
-porngrader.com/ddf-network
+0.0.0.0 bangbrosnetwork.com
+0.0.0.0 porngrader.com/bangbros-network
                                     
                                     
                                         
                                     
                                 
-bangbrosnetwork.com
-porngrader.com/bangbros-network
+0.0.0.0 digitalplayground.com
+0.0.0.0 porngrader.com/digitalplayground
                                     
                                     
                                         
                                     
                                 
-digitalplayground.com
-porngrader.com/digitalplayground
+0.0.0.0 babesnetwork.com
+0.0.0.0 porngrader.com/babes-network
                                     
                                     
                                         
                                     
                                 
-babesnetwork.com
-porngrader.com/babes-network
+0.0.0.0 fakehub.com
+0.0.0.0 porngrader.com/fakehub
                                     
                                     
                                         
                                     
                                 
-fakehub.com
-porngrader.com/fakehub
+0.0.0.0 twistysnetwork.com
+0.0.0.0 porngrader.com/twistys-network
                                     
                                     
                                         
                                     
                                 
-twistysnetwork.com
-porngrader.com/twistys-network
+0.0.0.0 sexyhub.com
+0.0.0.0 porngrader.com/sexyhub
                                     
                                     
                                         
                                     
                                 
-sexyhub.com
-porngrader.com/sexyhub
+0.0.0.0 www.adult.com/
+0.0.0.0 porngrader.com/adult-com
                                     
                                     
                                         
                                     
                                 
-www.adult.com/
-porngrader.com/adult-com
+0.0.0.0 private.com/
+0.0.0.0 porngrader.com/private
                                     
                                     
                                         
                                     
                                 
-private.com/
-porngrader.com/private
-                                    
-                                    
-                                        
-                                    
-                                
-baeb.com
-porngrader.com/baeb
+0.0.0.0 baeb.com
+0.0.0.0 porngrader.com/baeb
                                     
                                     
                                         
@@ -112,234 +122,234 @@ porngrader.com/pornhub-premium
                                         
                                     
                                 
-pornprosnetwork.com
-porngrader.com/pornpros-network
+0.0.0.0 pornprosnetwork.com
+0.0.0.0 porngrader.com/pornpros-network
                                     
                                     
                                         
                                     
                                 
-join.vixen.com/track/NDY3LjIuOC4yMy42LjAuMC4wLjA
-porngrader.com/vixen
+0.0.0.0 join.vixen.com/track/NDY3LjIuOC4yMy42LjAuMC4wLjA
+0.0.0.0 porngrader.com/vixen
                                     
                                     
                                         
                                     
                                 
-porngrader.com/top-live-sex-cam-sites/
-campeeks.com/
-porngrader.com/campeeks
+0.0.0.0 porngrader.com/top-live-sex-cam-sites/
+0.0.0.0 campeeks.com/
+0.0.0.0 porngrader.com/campeeks
                                     
                                     
                                         
                                     
                                 
-chaturbate.com
-porngrader.com/chaturbate
+0.0.0.0 chaturbate.com
+0.0.0.0 porngrader.com/chaturbate
                                     
                                     
                                         
                                     
                                 
-smuttywebcams.com/
-porngrader.com/smuttywebcams
+0.0.0.0 smuttywebcams.com/
+0.0.0.0porngrader.com/smuttywebcams
                                     
                                     
                                         
                                     
                                 
-cams.com
-porngrader.com/cams
+0.0.0.0 cams.com
+0.0.0.0 porngrader.com/cams
                                     
                                     
                                         
                                     
                                 
-www.livejasmin.com/
-porngrader.com/livejasmin
+0.0.0.0 www.livejasmin.com/
+0.0.0.0 porngrader.com/livejasmin
                                     
                                     
                                         
                                     
                                 
-myfreecams.com
-porngrader.com/myfreecams
+0.0.0.0 myfreecams.com
+0.0.0.0 porngrader.com/myfreecams
                                     
                                     
                                         
                                     
                                 
-imlive.com
-porngrader.com/imlive
+0.0.0.0 imlive.com
+0.0.0.0 porngrader.com/imlive
                                     
                                     
                                         
                                     
                                 
-sexedchat.com
-porngrader.com/sexedchat
+0.0.0.0 sexedchat.com
+0.0.0.0 porngrader.com/sexedchat
                                     
                                     
                                         
                                     
                                 
-ucam.xxx
-porngrader.com/ucam
+0.0.0.0 ucam.xxx
+0.0.0.0 porngrader.com/ucam
                                     
                                     
                                         
                                     
                                 
-stripchat.com
-porngrader.com/stripchat
+0.0.0.0 stripchat.com
+0.0.0.0 porngrader.com/stripchat
                                     
                                     
                                         
                                     
                                 
-www.cam4.com
-porngrader.com/cam4
+0.0.0.0 www.cam4.com
+0.0.0.0 porngrader.com/cam4
                                     
                                     
                                         
                                     
                                 
-bongacams.com/
-porngrader.com/bongacams
+0.0.0.0 bongacams.com/
+0.0.0.0 porngrader.com/bongacams
                                     
                                     
                                         
                                     
                                 
-flirt4free.com/
-porngrader.com/flirt4free
+0.0.0.0 flirt4free.com/
+0.0.0.0 porngrader.com/flirt4free
                                     
                                     
                                         
                                     
                                 
-porngrader.com/porn-video-sites/
- vporn.com/
-porngrader.com/vporn
+0.0.0.0 porngrader.com/porn-video-sites/
+0.0.0.0  vporn.com/
+0.0.0.0 porngrader.com/vporn
                                     
                                     
                                         
                                     
                                 
-redtube.com
-porngrader.com/redtube
+0.0.0.0 redtube.com
+0.0.0.0 porngrader.com/redtube
                                     
                                     
                                         
                                     
                                 
-pornhub.com
-porngrader.com/pornhub
+0.0.0.0 pornhub.com
+0.0.0.0 porngrader.com/pornhub
                                     
                                     
                                         
                                     
                                 
-xhamster.com
-porngrader.com/xhamster
+0.0.0.0 xhamster.com
+0.0.0.0  porngrader.com/xhamster
                                     
                                     
                                         
                                     
                                
-porndig.com
-porngrader.com/porndig
+0.0.0.0 porndig.com
+0.0.0.0 porngrader.com/porndig
                                     
                                     
                                         
                                     
                                 
-flyflv.com
-porngrader.com/flyflv
+0.0.0.0 flyflv.com
+0.0.0.0 porngrader.com/flyflv
                                     
                                     
                                         
                                     
                                 
-pornfapr.com
-porngrader.com/pornfapr
+0.0.0.0 pornfapr.com
+0.0.0.0 porngrader.com/pornfapr
                                     
                                     
                                         
                                     
                                 
-xvideos.com
-porngrader.com/xvideos
+0.0.0.0 xvideos.com
+0.0.0.0 porngrader.com/xvideos
                                     
                                     
                                         
                                     
                                 
- porn.com/
-porngrader.com/porn-com
+0.0.0.0 porn.com/
+0.0.0.0 porngrader.com/porn-com
                                     
                                     
                                         
                                     
                                 
- eporner.com/
-porngrader.com/eporner
+0.0.0.0 eporner.com/
+0.0.0.0 porngrader.com/eporner
                                     
                                     
                                         
                                     
                                 
- spankbang.com/
-porngrader.com/spankbang
+0.0.0.0  spankbang.com/
+0.0.0.0 porngrader.com/spankbang
                                     
                                     
                                         
                                     
                                 
- thumbzilla.com/
-porngrader.com/thumbzilla
+0.0.0.0  thumbzilla.com/
+0.0.0.0 porngrader.com/thumbzilla
                                     
                                     
                                         
                                     
                                 
- pornhd.com/
-porngrader.com/pornhd
+0.0.0.0 pornhd.com/
+0.0.0.0 porngrader.com/pornhd
                                     
                                     
                                         
                                     
                                 
- beeg.com/
-porngrader.com/beeg
+0.0.0.0 beeg.com/
+0.0.0.0 porngrader.com/beeg
                                     
                                     
                                         
                                     
                                 
- gotporn.com/
-porngrader.com/gotporn
+0.0.0.0 gotporn.com
+0.0.0.0 porngrader.com/gotporn
                                     
                                     
                                         
                                     
                                 
- youjizz.com/
-porngrader.com/youjizz
+0.0.0.0 youjizz.com
+0.0.0.0 porngrader.com/youjizz
+                                    
+                                    
+                                        
+                                    
+                               
+ 0.0.0.0 youporn.com
+0.0.0.0 porngrader.com/youporn
                                     
                                     
                                         
                                     
                                 
- youporn.com/
-porngrader.com/youporn
-                                    
-                                    
-                                        
-                                    
-                                
- tube8.com/
-porngrader.com/tube8
+0.0.0.0  tube8.com
+0.0.0.0 porngrader.com/tube8
                                     
                                     
                                         
@@ -351,364 +361,364 @@ porngrader.com/xtube
                                     
                                         
                                     
-                                
- www.hdzog.com/
-porngrader.com/hdzog
+                               
+0.0.0.0  www.hdzog.com
+0.0.0.0 porngrader.com/hdzog
                                     
                                     
                                         
                                     
                                 
- txxx.com/
-porngrader.com/txxx
+0.0.0.0  txxx.com
+0.0.0.0 porngrader.com/txxx
+                                    
+                                    
+                                        
+                                    
+                               
+0.0.0.0 spankwire.com
+0.0.0.0 porngrader.com/spankwire
                                     
                                     
                                         
                                     
                                 
- spankwire.com/
-porngrader.com/spankwire
+ 0.0.0.0 flyingjizz.com/
+0.0.0.0 porngrader.com/flyingjizz
                                     
                                     
                                         
                                     
                                 
- flyingjizz.com/
-porngrader.com/flyingjizz
+0.0.0.0  pornerbros.com
+0.0.0.0 porngrader.com/pornerbros
                                     
                                     
                                         
                                     
                                 
- pornerbros.com/
-porngrader.com/pornerbros
+0.0.0.0 hdpornt.com
+0.0.0.0 porngrader.com/hdpornt
                                     
                                     
                                         
                                     
                                 
- hdpornt.com/
-porngrader.com/hdpornt
+0.0.0.0  porn7.xxx
+0.0.0.0 porngrader.com/porn7
                                     
                                     
                                         
                                     
                                 
- porn7.xxx/
-porngrader.com/porn7
+ 0.0.0.0 tnaflix.com/
+0.0.0.0 porngrader.com/tnaflix
                                     
                                     
                                         
                                     
                                 
- tnaflix.com/
-porngrader.com/tnaflix
+0.0.0.0  perfectgirls.net/
+0.0.0.0 porngrader.com/perfectgirls
                                     
                                     
                                         
                                     
                                 
- perfectgirls.net/
-porngrader.com/perfectgirls
+0.0.0.0 porntube.com/
+0.0.0.0 porngrader.com/porntube
                                     
                                     
                                         
                                     
                                 
- porntube.com/
-porngrader.com/porntube
+0.0.0.0  4tube.com/
+0.0.0.0 porngrader.com/4tube
                                     
                                     
                                         
                                     
                                 
- 4tube.com/
-porngrader.com/4tube
+0.0.0.0  3movs.com/
+0.0.0.0 porngrader.com/3movs
                                     
                                     
                                         
                                     
                                 
- 3movs.com/
-porngrader.com/3movs
+0.0.0.0  drtuber.com/
+0.0.0.0 porngrader.com/drtuber
                                     
                                     
                                         
                                     
                                 
- drtuber.com/
-porngrader.com/drtuber
+0.0.0.0  cliphunter.com/
+0.0.0.0  porngrader.com/cliphunter
                                     
                                     
                                         
                                     
                                 
- cliphunter.com/
-porngrader.com/cliphunter
+0.0.0.0  porntrex.com/
+0.0.0.0  porngrader.com/porntrex
                                     
                                     
                                         
                                     
                                 
- porntrex.com/
-porngrader.com/porntrex
+ 0.0.0.0  sexix.net/
+0.0.0.0  porngrader.com/sexix
                                     
                                     
                                         
                                     
                                 
- sexix.net/
-porngrader.com/sexix
+0.0.0.0  yourporn.sexy/
+0.0.0.0  porngrader.com/yourporn
                                     
                                     
                                         
                                     
                                 
- yourporn.sexy/
-porngrader.com/yourporn
+0.0.0.0  veporn.net/
+0.0.0.0  porngrader.com/veporn
                                     
                                     
                                         
                                     
                                 
- veporn.net/
-porngrader.com/veporn
+ 0.0.0.0  bobs-tube.com/
+0.0.0.0  porngrader.com/bobs-tube
                                     
                                     
                                         
                                     
                                 
- bobs-tube.com/
-porngrader.com/bobs-tube
+0.0.0.0   pinflix.com/
+0.0.0.0  porngrader.com/pinflix
                                     
                                     
                                         
                                     
                                 
- pinflix.com/
-porngrader.com/pinflix
+ 0.0.0.0  pornrox.com/
+0.0.0.0  porngrader.com/pornrox
                                     
                                     
                                         
                                     
                                 
- pornrox.com/
-porngrader.com/pornrox
-                                    
-                                    
-                                        
-                                    
-                                
- fuqer.com/
+ 0.0.0.0  fuqer.com/
                                 
                                                                 
-                                                                Fuqer                                
+                                                                                                
                             
-porngrader.com/fuqer
+0.0.0.0  porngrader.com/fuqer
                                     
                                     
                                         
                                     
                                 
- long.xxx/
+ 0.0.0.0  long.xxx/
                                 
                                                                 
-                                                                Long.xxx                                
+                                                                                            
                             
-porngrader.com/long-xxx
+0.0.0.0  porngrader.com/long-xxx
                                     
                                     
                                         
                                     
                                 
- yes.xxx/
+0.0.0.0   yes.xxx/
                                 
                                                                 
                                                                 Yes.xxx                                
                             
-porngrader.com/yes-xxx
+0.0.0.0  porngrader.com/yes-xxx
                                     
                                     
                                         
                                     
                                 
- freepornhq.xxx/
+0.0.0.0  freepornhq.xxx/
                                 
                                                                 
-                                                                FreePornHQ                                
+                                                                                            
                             
-porngrader.com/freepornhq
+0.0.0.0  porngrader.com/freepornhq
                                     
                                     
                                         
                                     
                                 
- yea.xxx/
+0.0.0.0  yea.xxx/
                                 
                                                                 
-                                                                Yea.xxx                                
+                                                                                             
                             
-porngrader.com/yea-xxx
+0.0.0.0  porngrader.com/yea-xxx
                                     
                                     
                                         
                                     
                                 
- xxxymovies.com/
+0.0.0.0   xxxymovies.com/
                                 
                                                                 
-                                                                XXXYMovies                                
+                                                                                              
                             
-porngrader.com/xxxymovies
+0.0.0.0  porngrader.com/xxxymovies
                                     
                                     
                                         
                                     
                                 
-www.pornoxo.com/
+0.0.0.0  www.pornoxo.com/
                                 
                                                                 
                                                                 Pornoxo                                
                             
-porngrader.com/pornoxo
+0.0.0.0  porngrader.com/pornoxo
                                     
                                     
                                         
                                     
                                 
- porndoo.com/
+0.0.0.0   porndoo.com/
                                 
                                                                 
                                                                 Porndoo                                
                             
-porngrader.com/porndoo
+0.0.0.0  porngrader.com/porndoo
                                     
                                     
                                         
                                     
                                 
- porndoe.com/
+0.0.0.0   porndoe.com/
                                 
                                                                 
                                                                 Porndoe                                
                             
-porngrader.com/porndoe
+0.0.0.0  porngrader.com/porndoe
                                     
                                     
                                         
                                     
                                 
- xnxx.com/
+0.0.0.0  xnxx.com/
                                 
                                                                 
-                                                                XNXX                                
+                                                                                           
                             
-porngrader.com/xnxx
+0.0.0.0  porngrader.com/xnxx
                                     
                                     
                                         
                                     
                                 
- keezmovies.com/
+0.0.0.0  keezmovies.com/
                                 
                                                                 
-                                                                KeezMovies                                
+                                                                                               
                             
-porngrader.com/keezmovies
+0.0.0.0 porngrader.com/keezmovies
                                     
                                     
                                         
                                     
                                 
- vivud.com/
+ 0.0.0.0 vivud.com/
                                 
                                                                 
-                                                                Vivud                                
+                                                                                         
                             
-porngrader.com/vivud
+0.0.0.0 porngrader.com/vivud
                                     
                                     
                                         
                                     
                                 
- zmovs.com/
+0.0.0.0  zmovs.com/
                                 
                                                                 
                                                                 ZMovs                                
                             
-porngrader.com/zmovs
+0.0.0.0 porngrader.com/zmovs
                                     
                                     
                                         
                                     
                                 
- pussyspace.com/
+0.0.0.0  pussyspace.com/
                                 
                                                                 
                                                                 PussySpace                                
                             
-porngrader.com/pussyspace
+0.0.0.0 porngrader.com/pussyspace
                                     
                                     
                                         
                                     
                                 
-porns.land/
+0.0.0.0 porns.land/
                                 
                                                                 
                                                                 PornsLand                                
                             
-porngrader.com/pornsland
+0.0.0.0 porngrader.com/pornsland
                                     
                                     
                                         
                                     
                                 
- palmtube.com/
+0.0.0.0  palmtube.com/
                                 
                                                                 
                                                                 PalmTube                                
                             
-porngrader.com/palmtube
+0.0.0.0 porngrader.com/palmtube
                                     
                                     
                                         
                                     
                                 
- shameless.com/
+0.0.0.0  shameless.com/
                                 
                                                                 
                                                                 Shameless                                
                             
-porngrader.com/shameless
+0.0.0.0 orngrader.com/shameless
                                     
                                     
                                         
                                     
                                 
- slutload.com/
+ 0.0.0.0 slutload.com/
                                 
                                                                 
                                                                 SlutLoad                                
                             
-porngrader.com/slutload
+0.0.0.0 porngrader.com/slutload
                                     
                                     
                                         
                                     
                                 
- youx.xxx/
+ 0.0.0.0 youx.xxx/
                                 
                                                                 
                                                                 Youx                                
                             
-porngrader.com/youx
+0.0.0.0 porngrader.com/youx
                                     
                                     
                                         
                                     
                                 
- xbabe.com/
+0.0.0.0  xbabe.com/
                                 
                                                                 
                                                                 xBabe                                
@@ -719,23 +729,23 @@ porngrader.com/xbabe
                                         
                                     
                                 
- fapdu.com/
+0.0.0.0 fapdu.com/
                                 
                                                                 
                                                                 Fapdu                                
                             
-porngrader.com/fapdu
+0.0.0.0 porngrader.com/fapdu
                                     
                                     
                                         
                                     
                                 
-www.pornerbros.com/
+0.0.0.0 www.pornerbros.com/
                                 
                                                                 
                                                                 PornerBros                                
                             
-www.empflix.com/
+0.0.0.0 www.empflix.com/
                                 
                                                                 
                                                                 EmpFlix                                
@@ -746,78 +756,78 @@ porngrader.com/empflix
                                         
                                     
                                 
-www.sunporno.com/
+0.0.0.0 www.sunporno.com/
                                 
                                                                 
                                                                 SunPorno                                
                             
-porngrader.com/sunporno
+0.0.0.0 porngrader.com/sunporno
                                     
                                     
                                         
                                     
                                 
- bravotube.net/
+0.0.0.0  bravotube.net/
                                 
                                                                 
                                                                 BravoTube                                
                             
-porngrader.com/bravotube
+0.0.0.0 porngrader.com/bravotube
                                     
                                     
                                         
                                     
                                 
- anyporn.com/
+0.0.0.0  anyporn.com/
                                 
                                                                 
                                                                 AnyPorn                                
                             
-porngrader.com/anyporn
+0.0.0.0 porngrader.com/anyporn
                                     
                                     
                                         
                                     
                                 
- faapy.com/
+ 0.0.0.0 faapy.com/
                                 
                                                                 
                                                                 Faapy                                
                             
-porngrader.com/faapy
+0.0.0.0 porngrader.com/faapy
                                     
                                     
                                         
                                     
                                 
- fux.com/
+ 0.0.0.0 fux.com/
                                 
                                                                 
                                                                 Fux                                
                             
-porngrader.com/fux
+0.0.0.0 porngrader.com/fux
                                     
                                     
                                         
                                     
                                 
- youngpornvideos.com/
+ 0.0.0.0 youngpornvideos.com/
                                 
                                                                 
                                                                 YoungPornVideos                                
                             
-porngrader.com/youngpornvideos
+0.0.0.0 porngrader.com/youngpornvideos
                                     
                                     
                                         
                                     
                                 
- 8teenxxx.com/
+ 0.0.0.0 8teenxxx.com/
                                 
                                                                 
                                                                 8teenxxx                                
                             
-porngrader.com/8teenxxx
+0.0.0.0 porngrader.com/8teenxxx
                                     
                                     
                                         
@@ -828,123 +838,123 @@ porngrader.com/8teenxxx
                                                                 
                                                                 TubePornClassic                                
                             
-porngrader.com/tubepornclassic
+0.0.0.0 porngrader.com/tubepornclassic
                                     
                                     
                                         
                                     
                                 
- pornsharing.com/
+0.0.0.0  pornsharing.com/
                                 
                                                                 
                                                                 PornSharing                                
                             
-porngrader.com/pornsharing
+0.0.0.0 porngrader.com/pornsharing
                                     
                                     
                                         
                                     
                                 
- befuck.com/
+ 0.0.0.0 befuck.com/
                                 
                                                                 
                                                                 BeFuck                                
                             
-porngrader.com/befuck
+0.0.0.0 orngrader.com/befuck
                                     
                                     
                                         
                                     
                                 
-www.porn300.com/
+0.0.0.0 www.porn300.com/
                                 
                                                                 
                                                                 Porn300                                
                             
-porngrader.com/porn300
+0.0.0.0 porngrader.com/porn300
                                     
                                     
                                         
                                     
                                 
-www.canalporno.com/
+0.0.0.0 www.canalporno.com/
                                 
                                                                 
                                                                 CanalPorno                                
                             
-porngrader.com/canalporno
+0.0.0.0 porngrader.com/canalporno
                                     
                                     
                                         
                                     
                                 
-www.serviporno.com/
+0.0.0.0 www.serviporno.com/
                                 
                                                                 
                                                                 ServiPorno                                
                             
-porngrader.com/serviporno
+0.0.0.0 porngrader.com/serviporno
                                     
                                     
                                         
                                     
                                 
-www.bubbaporn.com/
+0.0.0.0 www.bubbaporn.com/
                                 
                                                                 
                                                                 BubbaPorn                                
                             
-porngrader.com/bubbaporn
+0.0.0.0 porngrader.com/bubbaporn
                                     
                                     
                                         
                                     
                                 
-www.voglioporno.com/
+0.0.0.0 www.voglioporno.com/
                                 
                                                                 
                                                                 VoglioPorno                                
                             
-porngrader.com/voglioporno
+0.0.0.0 porngrader.com/voglioporno
                                     
                                     
                                         
                                     
                                 
-www.pornodingue.com/
+0.0.0.0 www.pornodingue.com/
                                 
                                                                 
                                                                 PornoDingue                                
                             
-porngrader.com/pornodingue
+0.0.0.0 porngrader.com/pornodingue
                                     
                                     
                                         
                                     
                                 
- hd21.com/
+ 0.0.0.0 hd21.com/
                                 
                                                                 
                                                                 HD21                                
                             
-porngrader.com/hd21
+0.0.0.0 porngrader.com/hd21
                                     
                                     
                                         
                                     
                                 
- booloo.com/
+0.0.0.0 booloo.com/
                                 
                                                                 
                                                                 Booloo                                
                             
-porngrader.com/booloo
+0.0.0.0 porngrader.com/booloo
                                     
                                     
                                         
                                     
                                 
- anysex.com/
+ 0.0.0.0 anysex.com/
                                 
                                                                 
                                                                 AnySex                                
@@ -955,589 +965,589 @@ porngrader.com/anysex
                                         
                                     
                                 
- hellporno.com/
+0.0.0.0  hellporno.com/
                                 
                                                                 
                                                                 HellPorno                                
                             
-porngrader.com/hellporno
+0.0.0.0 porngrader.com/hellporno
                                     
                                     
                                         
                                     
                                 
- dtvideo.com/
+ 0.0.0.0 dtvideo.com/
                                 
                                                                 
                                                                 DTvideo                                
                             
-porngrader.com/dtvideo
+0.0.0.0 porngrader.com/dtvideo
                                     
                                     
                                         
                                     
                                 
- upornia.com/
+0.0.0.0  upornia.com/
                                 
                                                                 
                                                                 Upornia                                
                             
-porngrader.com/upornia
+0.0.0.0 porngrader.com/upornia
                                     
                                     
                                         
                                     
                                 
- sex3.com/
+ 0.0.0.0 sex3.com/
                                 
                                                                 
                                                                 Sex3                                
                             
-porngrader.com/sex3
+0.0.0.0 porngrader.com/sex3
                                     
                                     
                                         
                                     
                                 
- gonzo-movies.com/
+0.0.0.0  gonzo-movies.com/
                                 
                                                                 
                                                                 Gonzo-Movies                                
                             
-porngrader.com/gonzo-movies
+0.0.0.0 porngrader.com/gonzo-movies
                                     
                                     
                                         
                                     
                                 
- hotshame.com/
+0.0.0.0 hotshame.com/
                                 
                                                                 
                                                                 HotShame                                
                             
-porngrader.com/hotshame
+0.0.0.0 porngrader.com/hotshame
                                     
                                     
                                         
                                     
                                 
- wetplace.com/
+ 0.0.0.0 wetplace.com/
                                 
                                                                 
                                                                 WetPlace                                
                             
-porngrader.com/wetplace
+0.0.0.0 porngrader.com/wetplace
                                     
                                     
                                         
                                     
                                 
- www.pornktube.com/
+0.0.0.0 www.pornktube.com/
                                 
                                                                 
                                                                 PornkTube                                
                             
-porngrader.com/pornktube
+0.0.0.0 porngrader.com/pornktube
                                     
                                     
                                         
                                     
                                 
- tubedupe.com/
+ 0.0.0.0 tubedupe.com/
                                 
                                                                 
                                                                 TubeDupe                                
                             
-porngrader.com/tubedupe
+0.0.0.0 porngrader.com/tubedupe
                                     
                                     
                                         
                                     
                                 
-pandamovie.eu/adult/
+0.0.0.0 pandamovie.eu/adult/
                                 
                                                                 
                                                                 PandaMovie                                
                             
-porngrader.com/pandamovie
+0.0.0.0 porngrader.com/pandamovie
                                     
                                     
                                         
                                     
                                 
- yespornplease.com/
+ 0.0.0.0 yespornplease.com/
                                 
                                                                 
                                                                 YesPornPlease                                
                             
-porngrader.com/yespornplease
+0.0.0.0 porngrader.com/yespornplease
                                     
                                     
                                         
                                     
                                 
- ceporn.net/
+ 0.0.0.0 ceporn.net/
                                 
                                                                 
                                                                 CEporn                                
                             
-porngrader.com/ceporn
+0.0.0.0 porngrader.com/ceporn
                                     
                                     
                                         
                                     
                                 
- letsjerk.com/
+0.0.0.0 letsjerk.com/
                                 
                                                                 
                                                                 LetsJerk                                
                             
-porngrader.com/letsjerk
+0.0.0.0 porngrader.com/letsjerk
                                     
                                     
                                         
                                     
                                 
-sweext.com/
+0.0.0.0 sweext.com/
                                 
                                                                 
                                                                 Sweext                                
                             
-porngrader.com/sweext
+0.0.0.0 porngrader.com/sweext
                                     
                                     
                                         
                                     
                                 
-pornohub.su/
+0.0.0.0 pornohub.su/
                                 
                                                                 
                                                                 PornoHub.su                                
                             
-porngrader.com/pornohub-su
+0.0.0.0 porngrader.com/pornohub-su
                                     
                                     
                                         
                                     
                                 
-pornobae.com/
+0.0.0.0 pornobae.com/
                                 
                                                                 
                                                                 PornoBae                                
                             
-porngrader.com/pornobae
+0.0.0.0 porngrader.com/pornobae
                                     
                                     
                                         
                                     
                                 
- pornflip.com/
+0.0.0.0 pornflip.com/
                                 
                                                                 
                                                                 PornFlip                                
                             
-porngrader.com/pornflip
+0.0.0.0 porngrader.com/pornflip
                                     
                                     
                                         
                                     
                                 
-www.peekvids.com/
+0.0.0.0 www.peekvids.com/
                                 
                                                                 
                                                                 PeekVids                                
                             
-porngrader.com/peekvids
+0.0.0.0 porngrader.com/peekvids
                                     
                                     
                                         
                                     
                                 
-www.pornolandia.xxx/
+0.0.0.0 www.pornolandia.xxx/
                                 
                                                                 
                                                                 Pornolandia.xxx                                
                             
-porngrader.com/pornolandia-xxx
+0.0.0.0 porngrader.com/pornolandia-xxx
                                     
                                     
                                         
                                     
                                 
- thisvid.com/
+0.0.0.0 thisvid.com/
                                 
                                                                 
                                                                 ThisVid                                
                             
-porngrader.com/thisvid
+0.0.0.0 porngrader.com/thisvid
                                     
                                     
                                         
                                     
                                 
- tubxporn.com/
+0.0.0.0 tubxporn.com/
                                 
                                                                 
                                                                 TubXPorn                                
                             
-porngrader.com/tubxporn
+0.0.0.0 porngrader.com/tubxporn
                                     
                                     
                                         
                                     
                                 
-www.nsaporn.com/
+0.0.0.0 www.nsaporn.com/
                                 
                                                                 
                                                                 NsaPorn                                
                             
-porngrader.com/nsaporn
+0.0.0.0 porngrader.com/nsaporn
                                     
                                     
                                         
                                     
                                 
- freewebcampornvideos.com/
+0.0.0.0 freewebcampornvideos.com/
                                 
                                                                 
                                                                 FreeWebcamPornVideos                                
                             
-porngrader.com/freewebcampornvideos
+0.0.0.0 porngrader.com/freewebcampornvideos
                                     
                                     
                                         
                                     
                                 
- freelesbianpornovideos.com/
+ 0.0.0.0 freelesbianpornovideos.com/
                                 
                                                                 
                                                                 FreeLesbianPornoVideos                                
                             
-porngrader.com/freelesbianpornovideos
+0.0.0.0 porngrader.com/freelesbianpornovideos
                                     
                                     
                                         
                                     
                                 
-porngrader.com/best-amateur-porn-sites/
- smutr.com/
-porngrader.com/smutr
+0.0.0.0 porngrader.com/best-amateur-porn-sites/
+ 0.0.0.0 smutr.com/
+0.0.0.0 porngrader.com/smutr
                                     
                                     
                                         
                                     
                                 
- watchmygf.me/
-porngrader.com/watchmygf-me
+0.0.0.0  watchmygf.me/
+0.0.0.0 porngrader.com/watchmygf-me
                                     
                                     
                                         
                                     
                                 
- hclips.com/
-porngrader.com/hclips
+ 0.0.0.0 hclips.com/
+0.0.0.0 porngrader.com/hclips
                                     
                                     
                                         
                                     
                                 
- realgfporn.com/
-porngrader.com/realgfporn
+0.0.0.0 realgfporn.com/
+0.0.0.0 porngrader.com/realgfporn
                                     
                                     
                                         
                                     
                                 
- mylust.com/
-porngrader.com/mylust
+0.0.0.0 mylust.com/
+0.0.0.0 porngrader.com/mylust
                                     
                                     
                                         
                                     
                                 
- youramateurporn.com/
-porngrader.com/youramateurporn
+0.0.0.0 youramateurporn.com/
+0.0.0.0 porngrader.com/youramateurporn
                                     
                                     
                                         
                                     
                                 
- xxxaporn.com/
-porngrader.com/xxxaporn
+0.0.0.0 xxxaporn.com/
+0.0.0.0 porngrader.com/xxxaporn
                                     
                                     
                                         
                                     
                                 
- ruleporn.com/
-porngrader.com/ruleporn
+0.0.0.0 ruleporn.com/
+0.0.0.0 porngrader.com/ruleporn
                                     
                                     
                                         
                                     
                                 
- camwhores.tv/
-porngrader.com/camwhores
+0.0.0.0 camwhores.tv/
+0.0.0.0 porngrader.com/camwhores
                                     
                                     
                                         
                                     
                                 
- anon-v.com/
-porngrader.com/anon-v
+0.0.0.0 anon-v.com/
+ 0.0.0.0 porngrader.com/anon-v
                                     
                                     
                                         
                                     
                                 
- yuvutu.com/
-porngrader.com/yuvutu
+0.0.0.0 yuvutu.com/
+0.0.0.0 porngrader.com/yuvutu
                                     
                                     
                                         
                                     
                                 
- homemoviestube.com/
-porngrader.com/homemoviestube
+0.0.0.0 homemoviestube.com/
+0.0.0.0 porngrader.com/homemoviestube
                                     
                                     
                                         
                                     
                                 
- pornxs.com/
-porngrader.com/pornxs
+0.0.0.0  pornxs.com/
+0.0.0.0 porngrader.com/pornxs
                                     
                                     
                                         
                                     
                                 
- freecambay.com/
-porngrader.com/freecambay
+0.0.0.0 freecambay.com/
+0.0.0.0 porngrader.com/freecambay
                                     
                                     
                                         
                                     
                                 
- nudespree.com/
-porngrader.com/nudespree
+0.0.0.0 nudespree.com/
+0.0.0.0 porngrader.com/nudespree
                                     
                                     
                                         
                                     
                                 
- youramateurtube.com/
-porngrader.com/youramateurtube
+0.0.0.0 youramateurtube.com/
+0.0.0.0 porngrader.com/youramateurtube
                                     
                                     
                                         
                                     
                                 
- watchmygirlfriend.porn/
-porngrader.com/watchmygirlfriend-porn
+0.0.0.0  watchmygirlfriend.porn/
+0.0.0.0 porngrader.com/watchmygirlfriend-porn
                                     
                                     
                                         
                                     
                                 
- amateurarchiver.com/
-porngrader.com/amateurarchiver
+ 0.0.0.0 amateurarchiver.com/
+0.0.0.0 porngrader.com/amateurarchiver
                                     
                                     
                                         
                                     
                                 
- shooshtime.com/
-porngrader.com/shooshtime
+0.0.0.0  shooshtime.com/
+0.0.0.0 porngrader.com/shooshtime
                                     
                                     
                                         
                                     
                                 
- camporn.org/
-porngrader.com/camporn
+0.0.0.0  camporn.org/
+0.0.0.0 porngrader.com/camporn
                                     
                                     
                                         
                                     
                                 
- www.camwhoreshd.com/
-porngrader.com/camwhoreshd
+0.0.0.0  www.camwhoreshd.com/
+0.0.0.0 porngrader.com/camwhoreshd
                                     
                                     
                                         
                                     
                                 
- nudegab.com/
-porngrader.com/nudegab
+0.0.0.0  nudegab.com/
+0.0.0.0 porngrader.com/nudegab
                                     
                                     
                                         
                                     
                                 
- fuskator.com/
-porngrader.com/fuskator
+0.0.0.0  fuskator.com/
+0.0.0.0 porngrader.com/fuskator
                                     
                                     
                                         
                                     
                                 
- camuploads.com/
-porngrader.com/camuploads
+0.0.0.0  camuploads.com/
+0.0.0.0 porngrader.com/camuploads
                                     
                                     
                                         
                                     
                                 
- cambabe.me/
-porngrader.com/cambabe-me
+ 0.0.0.0 cambabe.me/
+0.0.0.0 porngrader.com/cambabe-me
                                     
                                     
                                         
                                     
                                 
- homewhores.net/
-porngrader.com/homewhores-net
+0.0.0.0 homewhores.net/
+0.0.0.0 porngrader.com/homewhores-net
                                     
                                     
                                         
                                     
                                 
- pornfun.com/
-porngrader.com/pornfun
+0.0.0.0 pornfun.com/
+0.0.0.0 porngrader.com/pornfun
                                     
                                     
                                         
                                     
                                 
- motherless.com/
-porngrader.com/motherless
+0.0.0.0  motherless.com/
+0.0.0.0 porngrader.com/motherless
                                     
                                     
                                         
                                     
                                 
- bangher.net/
-porngrader.com/bangher
+0.0.0.0 bangher.net/
+0.0.0.0 porngrader.com/bangher
                                     
                                     
                                         
                                     
                                 
-porngrader.com/best-vr-porn-sites/
- vrpornseek.com/
-porngrader.com/vrpornseek
+0.0.0.0 porngrader.com/best-vr-porn-sites/
+ 0.0.0.0 vrpornseek.com/
+0.0.0.0 porngrader.com/vrpornseek
                                     
                                     
                                         
                                     
                                 
- vrporn.com/
-porngrader.com/vrporn
+0.0.0.0 vrporn.com/
+0.0.0.0 porngrader.com/vrporn
                                     
                                     
                                         
                                     
                                 
- virtualrealporn.com/
-porngrader.com/virtualrealporn
+0.0.0.0 virtualrealporn.com/
+0.0.0.0 porngrader.com/virtualrealporn
                                     
                                     
                                         
                                     
                                 
- www.badoink.com/
-porngrader.com/badoinkvr
+0.0.0.0 www.badoink.com/
+0.0.0.0 porngrader.com/badoinkvr
                                     
                                     
                                         
                                     
                                 
-www.wankzvr.com/
-porngrader.com/wankzvr
+0.0.0.0 www.wankzvr.com/
+0.0.0.0 porngrader.com/wankzvr
                                     
                                     
                                         
                                     
                                 
-vrbangers.com/
-porngrader.com/vrbangers
+0.0.0.0 vrbangers.com/
+0.0.0.0 porngrader.com/vrbangers
                                     
                                     
                                         
                                     
                                 
-sexbabesvr.com/
-porngrader.com/sexbabesvr
+0.0.0.0 sexbabesvr.com/
+0.0.0.0 porngrader.com/sexbabesvr
                                     
                                     
                                         
                                     
                                 
-www.hologirlsvr.com/
-porngrader.com/hologirlsvr
+0.0.0.0 www.hologirlsvr.com/
+0.0.0.0 porngrader.com/hologirlsvr
                                     
                                     
                                         
                                     
                                 
-www.czechvr.com/
-porngrader.com/czechvr
+0.0.0.0 www.czechvr.com/
+0.0.0.0 porngrader.com/czechvr
                                     
                                     
                                         
                                     
                                 
-www.naughtyamericavr.com/
-porngrader.com/naughtyamericavr
+0.0.0.0 www.naughtyamericavr.com/
+0.0.0.0 porngrader.com/naughtyamericavr
                                     
                                     
                                         
                                     
                                 
- vrsmash.com/
-porngrader.com/vrsmash
+ 0.0.0.0 vrsmash.com/
+0.0.0.0 porngrader.com/vrsmash
                                     
                                     
                                         
                                     
                                 
- vrsumo.com/
-porngrader.com/vrsumo
+0.0.0.0  vrsumo.com/
+0.0.0.0 porngrader.com/vrsumo
                                     
                                     
                                         
                                     
                                 
- vrporzo.com/
-porngrader.com/vrporzo
+0.0.0.0 vrporzo.com/
+0.0.0.0 porngrader.com/vrporzo
                                     
                                     
                                         
                                     
                                 
- vrxporno.com/
-porngrader.com/vrxporno
+ 0.0.0.0 vrxporno.com/
+0.0.0.0 porngrader.com/vrxporno
                                     
                                     
                                         
                                     
                                 
-www.sexlikereal.com/
-porngrader.com/sexlikereal
+0.0.0.0 www.sexlikereal.com/
+0.0.0.0 porngrader.com/sexlikereal
                                     
                                     
                                         
                                     
                                 
- pornfoxvr.com/
-porngrader.com/pornfoxvr
+0.0.0.0 pornfoxvr.com/
+0.0.0.0 porngrader.com/pornfoxvr
                                     
                                     
                                         
                                     
                                 
- sexvr.com/
-porngrader.com/sexvr
+0.0.0.0 sexvr.com/
+0.0.0.0 porngrader.com/sexvr
                                     
                                     
                                         
@@ -1550,643 +1560,635 @@ porngrader.com/virtualporndesire
                                         
                                     
                                 
- vrporntimes.com/
-porngrader.com/vrporntimes
+0.0.0.0 vrporntimes.com/
+0.0.0.0 porngrader.com/vrporntimes
                                     
                                     
                                         
                                     
                                 
-porngrader.com/top-porn-blogs
- alrincon.com/
-porngrader.com/alrincon
+0.0.0.0 porngrader.com/top-porn-blogs
+0.0.0.0 alrincon.com/
+0.0.0.0 porngrader.com/alrincon
                                     
                                     
                                         
                                     
                                 
- fleshbot.com/
-porngrader.com/fleshbot
+0.0.0.0 fleshbot.com/
+0.0.0.0 porngrader.com/fleshbot
                                     
                                     
                                         
                                     
                                 
- mybigtitsbabes.com/
-porngrader.com/mybigtitsbabes
+0.0.0.0  mybigtitsbabes.com/
+0.0.0.0 porngrader.com/mybigtitsbabes
                                     
                                     
                                         
                                     
                                 
- candy.porn/
-porngrader.com/candy-porn
+0.0.0.0 candy.porn/
+0.0.0.0 porngrader.com/candy-porn
                                     
                                     
                                         
                                     
                                 
- boobieblog.com/
-porngrader.com/boobieblog
+ 0.0.0.0 boobieblog.com/
+0.0.0.0 porngrader.com/boobieblog
                                     
                                     
                                         
                                     
                                 
- boobsrealm.com/
-porngrader.com/boobsrealm
+0.0.0.0  boobsrealm.com/
+0.0.0.0 porngrader.com/boobsrealm
                                     
                                     
                                         
                                     
                                 
- ifl-porn.com/
-porngrader.com/ifl-porn
+0.0.0.0 ifl-porn.com/
+0.0.0.0 porngrader.com/ifl-porn
                                     
                                     
                                         
                                     
                                 
- shegg.com/
-porngrader.com/shegg
+0.0.0.0 shegg.com/
+0.0.0.0 porngrader.com/shegg
                                     
                                     
                                         
                                     
                                 
- icanlickit.com/
-porngrader.com/icanlickit
+0.0.0.0 icanlickit.com/
+0.0.0.0 porngrader.com/icanlickit
                                     
                                     
                                         
                                     
                                 
- erooups.com/
-porngrader.com/erooups
+0.0.0.0 erooups.com/
+0.0.0.0 porngrader.com/erooups
                                     
                                     
                                         
                                     
                                 
- redbled.com/
-porngrader.com/redbled
+0.0.0.0  redbled.com/
+0.0.0.0 porngrader.com/redbled
                                     
                                     
                                         
                                     
                                 
- nubilefilms.org/
-porngrader.com/nubilefilms-org
+0.0.0.0 nubilefilms.org/
+0.0.0.0 porngrader.com/nubilefilms-org
                                     
                                     
                                         
                                     
                                 
- teamskeetfans.com/
-porngrader.com/teamskeetfans
+0.0.0.0  teamskeetfans.com/
+0.0.0.0 porngrader.com/teamskeetfans
                                     
                                     
                                         
                                     
                                 
- xmilfporn.com/
-porngrader.com/xmilfporn
+ 0.0.0.0 xmilfporn.com/
+0.0.0.0 porngrader.com/xmilfporn
                                     
                                     
                                         
                                     
                                 
- analpornfan.com/
-porngrader.com/analpornfan
+0.0.0.0  analpornfan.com/
+0.0.0.0 porngrader.com/analpornfan
                                     
                                     
                                         
                                     
                                 
- interracialfuckfan.com/
-porngrader.com/interracialfuckfan
+ 0.0.0.0 interracialfuckfan.com/
+0.0.0.0 porngrader.com/interracialfuckfan
                                     
                                     
                                         
                                     
                                 
- extremepornfan.com/
-porngrader.com/extremepornfan
+0.0.0.0  extremepornfan.com/
+0.0.0.0 porngrader.com/extremepornfan
                                     
                                     
                                         
                                     
                                 
- xartfan.com/
-porngrader.com/xartfan
+0.0.0.0  xartfan.com/
+0.0.0.0 porngrader.com/xartfan
                                     
                                     
                                         
                                     
                                 
- ftvgirlsfan.com/
-porngrader.com/ftvgirlsfan
+0.0.0.0  ftvgirlsfan.com/
+0.0.0.0 porngrader.com/ftvgirlsfan
                                     
                                     
                                         
                                     
                                 
- passionhdfan.com/
-porngrader.com/passionhdfan
+ 0.0.0.0 passionhdfan.com/
+0.0.0.0 porngrader.com/passionhdfan
                                     
                                     
                                         
                                     
                                 
- tiny4kfan.com/
-porngrader.com/tiny4kfan
+0.0.0.0  tiny4kfan.com/
+0.0.0.0 porngrader.com/tiny4kfan
                                     
                                     
                                         
                                     
                                 
- spyfams.com/
-porngrader.com/spyfams
+ 0.0.0.0 spyfams.com/
+0.0.0.0 porngrader.com/spyfams
                                     
                                     
                                         
                                     
                                 
- povdfan.com/
-porngrader.com/povdfan
+0.0.0.0  povdfan.com/
+0.0.0.0 porngrader.com/povdfan
                                     
                                     
                                         
                                     
                                 
- purematurefan.com/
-porngrader.com/purematurefan
+0.0.0.0  purematurefan.com/
+0.0.0.0 porngrader.com/purematurefan
                                     
                                     
                                         
                                     
                                 
- lubedfan.com/
-porngrader.com/lubedfan
+0.0.0.0  lubedfan.com/
+0.0.0.0 porngrader.com/lubedfan
                                     
                                     
                                         
                                     
                                 
- babesfirst.com/
-porngrader.com/babesfirst
+0.0.0.0  babesfirst.com/
+0.0.0.0 porngrader.com/babesfirst
                                     
                                     
                                         
                                     
                                 
- castingcouchxfan.com/
-porngrader.com/castingcouchxfan
+0.0.0.0  castingcouchxfan.com/
+0.0.0.0 porngrader.com/castingcouchxfan
                                     
                                     
                                         
                                     
                                 
- wowgirlsfan.com/
-porngrader.com/wowgirlsfan
+0.0.0.0  wowgirlsfan.com/
+0.0.0.0 porngrader.com/wowgirlsfan
                                     
                                     
                                         
                                     
                                 
- nubilespornfan.com/
-porngrader.com/nubilespornfan
+ 0.0.0.0 nubilespornfan.com/
+0.0.0.0 porngrader.com/nubilespornfan
                                     
                                     
                                         
                                     
                                 
-mypornogames.com/
-porngrader.com/mypornogames
+0.0.0.0 mypornogames.com/
+0.0.0.0 porngrader.com/mypornogames
                                     
                                     
                                         
                                     
                                 
-porngrader.com/best-xxx-gallery-sites/
- brdteengal.com/
-porngrader.com/brdteengal
+0.0.0.0 porngrader.com/best-xxx-gallery-sites/
+ 0.0.0.0 brdteengal.com/
+0.0.0.0 porngrader.com/brdteengal
                                     
                                     
                                         
                                     
                                 
- pichunter.com/
-porngrader.com/pichunter
+ 0.0.0.0 pichunter.com/
+0.0.0.0 porngrader.com/pichunter
                                     
                                     
                                         
                                     
                                 
- smutty.com/
-porngrader.com/smutty
+ 0.0.0.0 smutty.com/
+0.0.0.0 porngrader.com/smutty
                                     
                                     
                                         
                                     
                                 
- pornpics.com/
-porngrader.com/pornpics
+0.0.0.0  pornpics.com/
+0.0.0.0 porngrader.com/pornpics
                                     
                                     
                                         
                                     
                                 
- imagefap.com/
-porngrader.com/imagefap
+0.0.0.0  imagefap.com/
+0.0.0.0 porngrader.com/imagefap
                                     
                                     
                                         
                                     
                                 
- kindgirls.com/
-porngrader.com/kindgirls
+ 0.0.0.0 kindgirls.com/
+0.0.0.0 porngrader.com/kindgirls
                                     
                                     
                                         
                                     
                                 
- bestmaturepics.com/
-porngrader.com/bestmaturepics
+0.0.0.0  bestmaturepics.com/
+0.0.0.0 porngrader.com/bestmaturepics
                                     
                                     
                                         
                                     
                                 
- hdpornpictures.com/
-porngrader.com/hdpornpictures
+0.0.0.0  hdpornpictures.com/
+0.0.0.0 porngrader.com/hdpornpictures
                                     
                                     
                                         
                                     
                                 
- hotmilfs.pics/
-porngrader.com/hotmilfs-pics
+ 0.0.0.0 hotmilfs.pics/
+0.0.0.0 porngrader.com/hotmilfs-pics
                                     
                                     
                                         
                                     
                                 
- hotnudegirls.net/
-porngrader.com/hotnudegirls
+ 0.0.0.0 hotnudegirls.net/
+0.0.0.0 porngrader.com/hotnudegirls
+                            
+0.0.0.0  tightpussypics.com/
+0.0.0.0 porngrader.com/tightpussypics
+                               
+ 0.0.0.0 hardxxxpics.com/
+0.0.0.0 porngrader.com/hardxxxpics
                                     
                                     
                                         
                                     
                                 
- tightpussypics.com/
-porngrader.com/tightpussypics
+0.0.0.0 porngrader.com/fetish-porn-websites/
+0.0.0.0 www.fetishpapa.com/
+0.0.0.0 porngrader.com/fetishpapa
                                     
                                     
                                         
                                     
                                 
- hardxxxpics.com/
-porngrader.com/hardxxxpics
+ 0.0.0.0 extremetube.com/
+0.0.0.0 porngrader.com/extremetube
                                     
                                     
                                         
                                     
                                 
-porngrader.com/fetish-porn-websites/
-www.fetishpapa.com/
-porngrader.com/fetishpapa
+0.0.0.0  spankingtube.com/
+0.0.0.0 porngrader.com/spankingtube
                                     
                                     
                                         
                                     
                                 
- extremetube.com/
-porngrader.com/extremetube
+0.0.0.0  shockingmovies.com/
+0.0.0.0 porngrader.com/shockingmovies
                                     
                                     
                                         
                                     
                                 
- spankingtube.com/
-porngrader.com/spankingtube
+0.0.0.0  bdsmstreak.com/
+0.0.0.0 porngrader.com/bdsmstreak
                                     
                                     
                                         
                                     
                                 
- shockingmovies.com/
-porngrader.com/shockingmovies
+0.0.0.0  feet9.com/
+0.0.0.0 porngrader.com/feet9
                                     
                                     
                                         
                                     
                                 
- bdsmstreak.com/
-porngrader.com/bdsmstreak
+ 0.0.0.0 www.slavestube.com/
+0.0.0.0 porngrader.com/slavestube
                                     
                                     
                                         
                                     
                                 
- feet9.com/
-porngrader.com/feet9
+0.0.0.0  femdomtube.xxx/
+0.0.0.0 porngrader.com/femdomtube
                                     
                                     
                                         
                                     
                                 
- www.slavestube.com/
-porngrader.com/slavestube
+0.0.0.0  bestpegging.com/
+0.0.0.0 porngrader.com/bestpegging
                                     
                                     
                                         
                                     
                                 
- femdomtube.xxx/
-porngrader.com/femdomtube
+0.0.0.0  midgetstube.com/
+0.0.0.0 porngrader.com/midgetstube
                                     
                                     
                                         
                                     
                                 
- bestpegging.com/
-porngrader.com/bestpegging
+0.0.0.0 porngrader.com/best-hot-babes-sites/
+0.0.0.0  foxhq.com/
+0.0.0.0 porngrader.com/foxhq
                                     
                                     
                                         
                                     
                                 
- midgetstube.com/
-porngrader.com/midgetstube
+ 0.0.0.0 hottystop.com/
+0.0.0.0 porngrader.com/hottystop
                                     
                                     
                                         
                                     
                                 
-porngrader.com/best-hot-babes-sites/
- foxhq.com/
-porngrader.com/foxhq
+0.0.0.0  bunnylust.com/
+0.0.0.0 porngrader.com/bunnylust
                                     
                                     
                                         
                                     
                                 
- hottystop.com/
-porngrader.com/hottystop
+0.0.0.0 cherrynudes.com/
+0.0.0.0 porngrader.com/cherrynudes
                                     
                                     
                                         
                                     
                                 
- bunnylust.com/
-porngrader.com/bunnylust
+0.0.0.0 nextdoortease.com/
+0.0.0.0 porngrader.com/nextdoortease
                                     
                                     
                                         
                                     
                                 
- cherrynudes.com/
-porngrader.com/cherrynudes
+0.0.0.0  morazzia.com/
+0.0.0.0 porngrader.com/morazzia
                                     
                                     
                                         
                                     
                                 
- nextdoortease.com/
-porngrader.com/nextdoortease
+0.0.0.0  eroticbeauties.net/
+0.0.0.0 porngrader.com/eroticbeauties
                                     
                                     
                                         
                                     
                                 
- morazzia.com/
-porngrader.com/morazzia
+0.0.0.0 porngrader.com/xxx-search-engines
+0.0.0.0 pornmd.com/
+0.0.0.0 porngrader.com/pornmd
                                     
                                     
                                         
                                     
                                 
- eroticbeauties.net/
-porngrader.com/eroticbeauties
+0.0.0.0 nudevista.com/
+0.0.0.0 porngrader.com/nudevista
                                     
                                     
                                         
                                     
                                 
-porngrader.com/xxx-search-engines
- pornmd.com/
-porngrader.com/pornmd
+0.0.0.0  tubegalore.com/
+0.0.0.0 porngrader.com/tubegalore
                                     
                                     
                                         
                                     
                                 
- nudevista.com/
-porngrader.com/nudevista
+0.0.0.0 fuq.com/
+0.0.0.0 porngrader.com/fuq
                                     
                                     
                                         
                                     
                                 
- tubegalore.com/
-porngrader.com/tubegalore
+ 0.0.0.0 ixxx.com/
+0.0.0.0 porngrader.com/ixxx
                                     
                                     
                                         
                                     
                                 
- fuq.com/
-porngrader.com/fuq
+0.0.0.0  porndex.com/
+0.0.0.0 porngrader.com/porndex
                                     
                                     
                                         
                                     
                                 
- ixxx.com/
-porngrader.com/ixxx
+ 0.0.0.0 eveknows.com/
+0.0.0.0 porngrader.com/eveknows
                                     
                                     
                                         
                                     
                                 
- porndex.com/
-porngrader.com/porndex
+ 0.0.0.0 justpicsplease.com/
+0.0.0.0 porngrader.com/justpicsplease
                                     
                                     
                                         
                                     
                                 
- eveknows.com/
-porngrader.com/eveknows
+0.0.0.0  rexxx.com/
+0.0.0.0 porngrader.com/rexxx
                                     
                                     
                                         
                                     
                                 
- justpicsplease.com/
-porngrader.com/justpicsplease
+0.0.0.0  metaporn.com/
+0.0.0.0 porngrader.com/metaporn
                                     
                                     
                                         
                                     
                                 
- rexxx.com/
-porngrader.com/rexxx
+ 0.0.0.0 porzo.com/
+0.0.0.0 porngrader.com/porzo
                                     
                                     
                                         
                                     
                                 
- metaporn.com/
-porngrader.com/metaporn
+ 0.0.0.0 fucd.com/
+0.0.0.0 porngrader.com/fucd
                                     
                                     
                                         
                                     
                                 
- porzo.com/
-porngrader.com/porzo
+0.0.0.0  findtubes.com/
+0.0.0.0 porngrader.com/findtubes
                                     
                                     
                                         
                                     
                                 
- fucd.com/
-porngrader.com/fucd
+ 0.0.0.0 tube77.com/
+0.0.0.0 porngrader.com/tube77
                                     
                                     
                                         
                                     
                                 
- findtubes.com/
-porngrader.com/findtubes
+ 0.0.0.0 24porn.com/
+0.0.0.0 porngrader.com/24porn
                                     
                                     
                                         
                                     
                                 
- tube77.com/
-porngrader.com/tube77
+0.0.0.0  pornsearch.guru/
+0.0.0.0 porngrader.com/pornsearch-guru
                                     
                                     
                                         
                                     
                                 
- 24porn.com/
-porngrader.com/24porn
+0.0.0.0  hugesex.tv/
+0.0.0.0 porngrader.com/hugesex-tv
                                     
                                     
                                         
                                     
                                 
- pornsearch.guru/
-porngrader.com/pornsearch-guru
+0.0.0.0  www.maturetube.com/
+0.0.0.0 porngrader.com/maturetube
                                     
                                     
                                         
                                     
                                 
- hugesex.tv/
-porngrader.com/hugesex-tv
+0.0.0.0  www.tonicmovies.com/
+0.0.0.0 porngrader.com/tonicmovies
                                     
                                     
                                         
                                     
                                 
- www.maturetube.com/
-porngrader.com/maturetube
+0.0.0.0  www.xgent.com/
+0.0.0.0 porngrader.com/xgent
                                     
                                     
                                         
                                     
                                 
- www.tonicmovies.com/
-porngrader.com/tonicmovies
+0.0.0.0  www.severalmovies.com/
+0.0.0.0 porngrader.com/severalmovies
                                     
                                     
                                         
                                     
                                 
- www.xgent.com/
-porngrader.com/xgent
+0.0.0.0  www.hqhole.com/
+0.0.0.0 porngrader.com/hqhole
                                     
                                     
                                         
                                     
                                 
- www.severalmovies.com/
-porngrader.com/severalmovies
+0.0.0.0  www.sexpulse.tv/
+0.0.0.0 porngrader.com/sexpulse-tv
                                     
                                     
                                         
                                     
                                 
- www.hqhole.com/
-porngrader.com/hqhole
+0.0.0.0  www.freshpornclips.com/
+0.0.0.0 porngrader.com/freshpornclips
                                     
                                     
                                         
                                     
                                 
- www.sexpulse.tv/
-porngrader.com/sexpulse-tv
+ 0.0.0.0 www.polarpornhd.com/
+0.0.0.0 porngrader.com/polarpornhd
                                     
                                     
                                         
                                     
                                 
- www.freshpornclips.com/
-porngrader.com/freshpornclips
+0.0.0.0  www.sweetshow.com/
+0.0.0.0 porngrader.com/sweetshow
                                     
                                     
                                         
                                     
                                 
- www.polarpornhd.com/
-porngrader.com/polarpornhd
+0.0.0.0  www.tubetip.com/
+0.0.0.0 porngrader.com/tubetip
                                     
                                     
                                         
                                     
                                 
- www.sweetshow.com/
-porngrader.com/sweetshow
+0.0.0.0  www.rulertube.com/
+0.0.0.0 porngrader.com/rulertube
                                     
                                     
                                         
                                     
                                 
- www.tubetip.com/
-porngrader.com/tubetip
+0.0.0.0  www.tubepleasure.com/
+0.0.0.0 porngrader.com/tubepleasure
                                     
                                     
                                         
                                     
                                 
- www.rulertube.com/
-porngrader.com/rulertube
+0.0.0.0  fapvid.com/
+0.0.0.0 porngrader.com/fapvid
                                     
                                     
                                         
                                     
                                 
- www.tubepleasure.com/
-porngrader.com/tubepleasure
-                                    
-                                    
-                                        
-                                    
-                                
- fapvid.com/
-porngrader.com/fapvid
-                                    
-                                    
-                                        
-                                    
-                                
- www.goldpornfilms.com/
-porngrader.com/goldpornfilms
+0.0.0.0  www.goldpornfilms.com/
+0.0.0.0 porngrader.com/goldpornfilms
                                     
                                     
                                         
