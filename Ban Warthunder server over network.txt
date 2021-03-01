@@ -1,9 +1,9 @@
-api-cache.blizzcon.com
-api-cache.blizzcon.com 
-gcore.cdn.gaijin.net
-warthunder-gcore.cdn.gaijin.net 
-auth.gaijinent.com
-auth.gaijinent.com 
-warthunder.com
-gaijin.net
+0.0.0.0 api-cache.blizzcon.com
+0.0.0.0 api-cache.blizzcon.com 
+0.0.0.0 gcore.cdn.gaijin.net
+0.0.0.0 warthunder-gcore.cdn.gaijin.net 
+0.0.0.0 auth.gaijinent.com
+0.0.0.0 auth.gaijinent.com 
+0.0.0.0 warthunder.com
+0.0.0.0 gaijin.net
 
