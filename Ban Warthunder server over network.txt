@@ -6,4 +6,4 @@
 0.0.0.0 auth.gaijinent.com 
 0.0.0.0 warthunder.com
 0.0.0.0 gaijin.net
-
+0.0.0.0 userstat-sv-lx-109.gaijin.net
