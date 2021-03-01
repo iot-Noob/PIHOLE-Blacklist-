@@ -4,3 +4,4 @@
 0.0.0.0 steamcommunity.com
 0.0.0.0 edgesuite.net
 0.0.0.0 akamaihd.net 
+0.0.0.0 steamcdn-a.akamaihd.net
