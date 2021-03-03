@@ -13,3 +13,4 @@
  0.0.0.0 inventory-proxy.gaijin.net	
  0.0.0.0 char-lw-nl-005-2.warthunder.com	
  0.0.0.0 public-configs.warthunder.com
+0.0.0.0 char-lw-nl-005-5.warthunder.com
