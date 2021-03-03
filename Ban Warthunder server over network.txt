@@ -7,3 +7,9 @@
 0.0.0.0 warthunder.com
 0.0.0.0 gaijin.net
 0.0.0.0 userstat-sv-lx-109.gaijin.net
+0.0.0.0 mgate-sv-lx-01.warthunder.com
+0.0.0.0 yuptracker.gaijinent.com	
+ 0.0.0.0 mgate-sv-nl-01.warthunder.com	
+ 0.0.0.0 inventory-proxy.gaijin.net	
+ 0.0.0.0 char-lw-nl-005-2.warthunder.com	
+ 0.0.0.0 public-configs.warthunder.com
